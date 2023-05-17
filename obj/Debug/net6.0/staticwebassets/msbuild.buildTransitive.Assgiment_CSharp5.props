@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Assgiment_CSharp5.props" />
+</Project>
